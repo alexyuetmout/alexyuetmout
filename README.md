@@ -5,7 +5,7 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 ---
 
 ### 🎨 **[Best Coloring Pages AI](https://www.bestcoloringpages.ai)**
-> Comprehensive [AI coloring pages generator](https://www.bestcoloringpages.ai) platform
+> Comprehensive [AI coloring page generator](https://www.bestcoloringpages.ai) platform
 
 **✨ Core Features:**
 - 🖊️ **[AI Text-to-Coloring Page Generator](https://www.bestcoloringpages.ai/text-to-coloring-page)**  
