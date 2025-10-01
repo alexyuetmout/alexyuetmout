@@ -29,6 +29,8 @@ Convert rough sketches and drafts into professional coloring pages
 
 ---
 
+### 🤖 **[trysora2](https://trysora2.org)**
+
 ### 🔮 **Coming Soon**
 *More exciting projects in development - stay tuned for updates!*
 
