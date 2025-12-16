@@ -29,6 +29,19 @@ Convert rough sketches and drafts into professional coloring pages
 
 ---
 
+### 🎵 **[AI Song Creator](https://aisongcreator.app)**
+> AI-powered music creation platform with four core tools
+
+**🎼 Key Features:**
+- 🎵 **[Music Generator](https://aisongcreator.app/ai-music-generator)** - Text-to-music conversion up to 8 minutes
+- 📝 **[Lyrics Generator](https://aisongcreator.app/ai-lyrics-generator)** - AI-generated lyrics and composition
+- 🎤 **[Vocal Remover](https://aisongcreator.app/ai-vocal-remover)** - Audio vocal extraction and removal
+- 🎼 **[Stem Splitter](https://aisongcreator.app/ai-stem-splitter)** - Multi-track instrument separation
+
+*Royalty-free output with commercial licensing for content creators.*
+
+---
+
 ### 🤖 **[trysora2](https://trysora2.org)**
 
 ### 🔮 **Coming Soon**
